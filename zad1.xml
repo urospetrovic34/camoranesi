@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MojiPodaci>
+	<PunoIme>
+		<Ime></Ime>
+		<Prezime></Prezime>
+	</PunoIme>
+	<DatumRodjenja>
+		<Dan></Dan>
+		<Mesec></Mesec>
+		<Godina></Godina>
+	</DatumRodjenja>
+	<Adresa>
+		<Ulica></Ulica>
+		<Grad></Grad>
+		<Drzava></Drzava>
+		<PTT></PTT>
+	</Adresa>
+</MojiPodaci>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Fakultet SYSTEM "zad6.dtd">
+<Fakultet>
+	<Student status="studira" indeks="nrt_105_17">
+		<Osoba>
+			<Ime>Uros</Ime>
+			<Prezime>Petrovic</Prezime>
+			<MestoRodjenja>Beograd</MestoRodjenja>
+			<DatumRodjenja>03.08.1998</DatumRodjenja>
+		</Osoba>
+		<Upisi>
+			<Semestar broj="1" godina="1" vrsta="saf">
+			</Semestar>
+			<Semestar broj="2" godina="1" vrsta="saf">
+			</Semestar>
+			<Semestar broj="3" godina="2" vrsta="budzet">
+			</Semestar>
+			<Semestar broj="4" godina="2" vrsta="budzet">
+			</Semestar>
+			<Semestar broj="5" godina="3" vrsta="budzet">
+			</Semestar>
+			<Semestar broj="6" godina="3" vrsta="budzet">
+			</Semestar>
+		</Upisi>
+	</Student>
+	<Student status="diplomirao" indeks="rt_217_18">
+		<Osoba>
+			<Ime>Osoba</Ime>
+			<Prezime>B</Prezime>
+			<MestoRodjenja>Beograd</MestoRodjenja>
+			<DatumRodjenja>01.01.1993</DatumRodjenja>
+		</Osoba>
+		<Upisi>
+			<Semestar broj="1" godina="1" vrsta="budzet">
+			</Semestar>
+			<Semestar broj="2" godina="1" vrsta="budzet">
+			</Semestar>
+			<Semestar broj="3" godina="2" vrsta="budzet">
+			</Semestar>
+			<Semestar broj="4" godina="2" vrsta="budzet">
+			</Semestar>
+		</Upisi>
+	</Student>
+</Fakultet>

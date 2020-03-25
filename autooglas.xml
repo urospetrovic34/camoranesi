@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Autooglas SYSTEM "autooglas.dtd">
+<Autooglas>
+	<Automobil>
+		<Proizvodjac>BMW</Proizvodjac>
+		<Model tip="Karavan">530</Model>
+		<Godiste>2013</Godiste>
+		<Farba tipBoje="Metalik">Crvena</Farba>
+		<ZapreminaMotora mernaJedinica="L">500</ZapreminaMotora>
+		<Transmisija tipPrenosa="Manuelni">6</Transmisija>
+		<Gorivo tng="Ne">700</Gorivo>
+		<Cena valuta="EUR">9500</Cena>
+		<KontaktProdavca></KontaktProdavca>
+	</Automobil>
+	<Automobil>
+		<Proizvodjac>BMW</Proizvodjac>
+		<Model tip="Karavan">530</Model>
+		<Godiste>2013</Godiste>
+		<Farba tipBoje="Metalik">Crvena</Farba>
+		<ZapreminaMotora mernaJedinica="L">500</ZapreminaMotora>
+		<Transmisija tipPrenosa="Manuelni">6</Transmisija>
+		<Gorivo tng="Ne">700</Gorivo>
+		<Cena valuta="EUR">9500</Cena>
+		<KontaktProdavca></KontaktProdavca>
+	</Automobil>
+</Autooglas>

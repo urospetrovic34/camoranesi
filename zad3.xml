@@ -1,0 +1,9 @@
+<mail:Inbox xmlns:mail="http://viser.edu.rs/mail">
+	<mail:Posiljalac></mail:Posiljalac>
+	<mail:Primalac></mail:Primalac>
+	<mail:CC></mail:CC>
+	<mail:BCC></mail:BCC>
+	<mail:Naslov></mail:Naslov>
+	<mail:Tekst></mail:Tekst>
+	<mail:Datum></mail:Datum>
+</mail:Inbox>
